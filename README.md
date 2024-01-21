@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Olá, seja bem vindo! 👋</h1></summary>
 </div>
 
-  <img src="https://raw.githubusercontent.com/David-R-Cardoso/David-R-Cardoso/output/snake.svg" alt="Snake animation" />
+###
 
 <!-- Presentation -->
 <p>
