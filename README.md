@@ -10,9 +10,9 @@
 <p>
   Olá 👋, eu sou David! Um estudante apaixonado pela tecnologia, com fome de conhecimento.
 
-  - 👨‍🎓 Estou cursando engenharia da computação pela UNINTER <a href="https://www.uninter.com/" {:target="_blank"}> <img src="imagens/UNINTER2.png" height="20"> </a>
-
-  - 👨‍💻 Estou em busca da minha primeira oportunidade de emprego. Quero iniciar com desenvolvimento front-end
+  - 👨‍🎓 Estou cursando engenharia da computação pela UNINTER. <a href="#" > <img src="imagens/UNINTER2.png" height="20"> </a>
+  <!-- https://www.uninter.com -->
+  - 👨‍💻 Estou em busca da minha primeira oportunidade de emprego. Quero iniciar com desenvolvimento front-end.
 </p>
 
 <!-- Dropdown -->
