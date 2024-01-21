@@ -8,7 +8,10 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, eu sou David! Um estudante de engenharia da computação do Brasil.
+  Olá 👋, eu sou David! Um estudante apaixonado pela tecnologia, com fome de conhecimento.
+
+  - 👨‍🎓 Estou cursando engenharia da computação pela UNINTER <a href="https://www.uninter.com/"> <img src="imagens/UNINTER2.png" height="20"> </a>
+  - 👨‍💻 Estou em busca da minha primeira oportunidade de emprego. Quero iniciar com desenvolvimento front-end
 </p>
 
 <!-- Dropdown -->
@@ -54,7 +57,7 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p> -->
 
-## 🔥 Skills
+## 🔥 Habilidades
 
 <!-- Skills: Programming Languages -->
 <div align="left">
