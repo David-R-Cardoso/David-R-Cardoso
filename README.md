@@ -31,9 +31,10 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee) -->
 
 <!-- GithubStats -->
-<!-- ![David-R-Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=David-R-Cardoso&show_icons=true&theme=dark) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=David-R-Cardoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+![David-R-Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=David-R-Cardoso&show_icons=true&theme=dark)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=David-R-Cardoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 
 <details>
 
