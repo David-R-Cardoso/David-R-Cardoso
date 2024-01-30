@@ -12,7 +12,7 @@
 
   - 👨‍🎓 Estou cursando engenharia da computação pela UNINTER. <a href="#" > <img src="imagens/UNINTER2.png" height="20"> </a>
   <!-- https://www.uninter.com -->
-  - 👨‍💻 Estou em busca da minha primeira oportunidade de emprego. Quero iniciar com desenvolvimento front-end.
+  - 👨🏾‍🚀 Estou em busca da minha primeira oportunidade de emprego. Quero iniciar com desenvolvimento front-end.
 </p>
 
 <!-- Dropdown -->
